@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662767363065",
+    "project_id": "fir-auth-5541f",
+    "storage_bucket": "fir-auth-5541f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662767363065:android:7533162ad87464eeb25328",
+        "android_client_info": {
+          "package_name": "ca.georgiancollege.assignment2_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTCuirCqezw6yyFsCQ5d0FCDr6gll3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
